@@ -1,1 +1,1 @@
-# This is first git and github project with my fist website
+# This is my first git and github project with my fist website

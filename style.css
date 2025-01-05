@@ -1,0 +1,30 @@
+*{
+    text-align:center;
+    background-color: #1E2761;
+    color: #ADEFD1FF;
+}
+
+.main_heading {
+    background-color: #408EC6 ;
+    display:inline;
+    font-size: 35px;
+    text-transform: capitalize;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.middle_heading {
+    font-size: 28px;
+    text-transform:capitalize;
+}
+
+button {
+    font-size: 28px; 
+    background-color:#101820FF;
+}
+
+#main {
+    text-decoration:none;
+    background-color:#101820FF;
+    color: #FCF6F5FF;
+    
+}
